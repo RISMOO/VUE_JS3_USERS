@@ -2,7 +2,7 @@
 ``CDN https://unpkg.com/vue@3``
 
 ### Affichage d'utilisateurs via une **api**
-``API https://unpkg.com/vue@3``
+``API https://randomuser.me/api``
 
 
  [Voir le projet](https://rismo.fr/)
