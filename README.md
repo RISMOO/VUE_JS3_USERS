@@ -5,4 +5,4 @@
 ``API https://randomuser.me/api``
 
 
- [Voir le projet](https://rismo.fr/)
+ [Voir le projet](https://rismo.fr/apps/user/)
